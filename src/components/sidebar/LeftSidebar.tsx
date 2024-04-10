@@ -3,7 +3,7 @@ import Link from 'next/link'
 import React from 'react'
 import { Tooltip, TooltipContent, TooltipTrigger } from '../ui/tooltip'
 
-const Sidebar1 = () => {
+const LeftSideBar = () => {
     return (
         <>
 
@@ -96,4 +96,4 @@ const Sidebar1 = () => {
     )
 }
 
-export default Sidebar1
+export default LeftSideBar
